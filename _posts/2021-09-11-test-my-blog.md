@@ -1,0 +1,27 @@
+---
+title: 测试我的博客
+tags: 神神叨叨
+key: test-my-blog
+---
+
+# test my bolg
+
+
+hello world!!!
+
+```
+this is my code!!!
+```
+
+
+
+
+<!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+<a class="a2a_button_wechat"></a>
+<a class="a2a_button_douban"></a>
+<a class="a2a_button_sina_weibo"></a>
+</div>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+<!-- AddToAny END -->
