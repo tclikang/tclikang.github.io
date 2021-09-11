@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : 清凉谷风
 description: > # this means to ignore newlines until "Language & timezone"
-  记录我的神神叨叨
+  
 
 
 ## => Language and Timezone
@@ -128,8 +128,8 @@ comments:
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
     clientID    : 19a4aa084d0299532e93 # GitHub Application Client ID
-    clientSecret: 2f32db55a19af1b77f011da9dde519d00b9ea463 # GitHub Application Client Secret
-    repository  : https://github.com/tclikang/tclikang.github.io # GitHub repo
+    clientSecret: eb12e0acb35439f3309d9a8054112b9370ff0a9b  # GitHub Application Client Secret
+    repository  : tclikang.github.io # GitHub repo
     owner       : tclikang # GitHub repo owner
     admin: tclikang # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
