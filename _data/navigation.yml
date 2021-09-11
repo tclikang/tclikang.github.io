@@ -48,3 +48,9 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+  - title:      Docs
+    url:        /docs/en/quick-start
+  - title:      GitHub
+    url:        https://github.com/tclikang
+      
